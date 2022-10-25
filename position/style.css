@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.area {
+    width: 100vw;
+    height: 800px;
+}
+
+.cap {
+    position: sticky;
+    top: 0;
+    background-color: rgb(127, 172, 22);
+    color: white;
+    width: 100vw;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.cap p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.news {
+    position: absolute;
+    top: 85px;
+    width: 99vw;
+    height: 700px;
+    border: 1px solid rgb(127, 172, 22);
+}
+
+.news p {
+    font-size: 17px;
+    position: relative;
+    margin-top: 12px;
+    top: 25px;
+    left: 25px;
+    right: 25px;
+    bottom: 25px;
+}
