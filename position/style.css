@@ -8,29 +8,29 @@
     height: 800px;
 }
 
-.boxred {
-    position:absolute;
-    left: 50px;
+.area2 {
+    position: absolute;
     top: 50px;
-    width: 50px;
-    height: 50px;
-    background-color: rgb(230, 100, 100);
+    left: 50px;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(0, 255, 157);
 }
 
-.boxpurple {
-    position:absolute;
-    left: 85px;
-    top: 85px;
-    width: 50px;
-    height: 50px;
-    background-color: rgb(171, 69, 218);
+.boxwhite1 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    position: absolute;
+    top: 65px;
+    left: 65px;
 }
 
-.boxgreen {
-    position:absolute;
-    left: 120px;
-    top: 120px;
-    width: 50px;
-    height: 50px;
-    background-color: rgb(37, 224, 109);
+.boxwhite2 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    position: absolute;
+    top: 370px;
+    left: 585px;
 }
