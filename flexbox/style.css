@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.green {
+    background-color: rgb(95, 192, 51);
+    height: 200px;
+    width: 100px;
+}
+
+.white {
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 100px;
+}
+
+.orange {
+    background-color: rgb(247, 76, 34);
+    height: 200px;
+    width: 100px;
+}
+
+.bg {
+    background-color: rgb(116, 96, 72);
+}
